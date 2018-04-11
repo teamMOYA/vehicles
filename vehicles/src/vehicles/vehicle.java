@@ -17,8 +17,6 @@ public class vehicle {
 		while(this.velocitat_actual > 0){
 			this.velocitat_actual -= 10;
 		}
-		}
-
 	}
 
 }
