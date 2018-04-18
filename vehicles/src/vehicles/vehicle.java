@@ -8,7 +8,6 @@ public class vehicle {
 	private final int marxes = 5;
 	private int marxaActual = 0;
 
-
 	public void accelerar(){
 		while(this.velocitat_actual < this.velocitat_maxima){
 			this.velocitat_actual += 10;
